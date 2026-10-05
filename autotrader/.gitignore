@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+trades.csv
+equity.csv
